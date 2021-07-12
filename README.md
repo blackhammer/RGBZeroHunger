@@ -19,6 +19,7 @@ Long description:
 In approximately 500 words, describe your solution in more detail. Include the real-world problem you identified, describe the technological solution you have created, and explain how it’s an improvement over existing solutions. You can supply additional documentation in your source code repository link below.
 Solution roadmap: 
 
+The real world problem we are attempting to mitigate is food waste. A
 
 
 Create a document or image that shows how mature your solution is today and how you would like to improve it in the future. This can include information on the business model, funding needs, and a sustainability plan. Here’s an example from the 2018 Call for Code winner Project Owl.
